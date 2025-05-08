@@ -13,6 +13,7 @@
 # git add . => track all files
 # git commit -m "Your message"
 
+import json
 import requests 
 from bs4 import BeautifulSoup
 import sqlite3
